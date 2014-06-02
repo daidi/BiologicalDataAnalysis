@@ -15,3 +15,11 @@ Second , it could handle the result of analysis which mentioned before ,and use 
 首先，它可以分析生物大数据，然后将他们解析成图表的形式，这样用户就可以很容易的看出这些数据背后隐藏的含义。同时，他会被生成矩阵的形式，这样我们后面就可以对这些数据应用数据挖掘的算法。我为用户制造了一个按钮，通过这个按钮，使用者就可以下载这些结果用于分析。
 
 然后，它可以处理分析的结果，然后使用一些算法。因为数据挖掘算法的选择依赖于具体的使用环境，因此我只做了一个FP-growth算法用于展示它的可操作性。为了使算法更加灵活和易于理解，我使用了WEKA来完成这些算法，这样我们就可以很容易的修改这部分代码。
+
+**********************************************************
+截图：
+![image](https://github.com/daidi/BiologicalDataAnalysis/raw/master/img/homepage.png)
+![image](https://github.com/daidi/BiologicalDataAnalysis/raw/master/img/query.png)
+![image](https://github.com/daidi/BiologicalDataAnalysis/raw/master/img/chart.png)
+![image](https://github.com/daidi/BiologicalDataAnalysis/raw/master/img/result.png)
+![image](https://github.com/daidi/BiologicalDataAnalysis/raw/master/img/analysis.png)
