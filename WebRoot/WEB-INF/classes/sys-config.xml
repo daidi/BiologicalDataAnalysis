@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<db-info>
+		<driver-name>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver-name>
+		<url>jdbc:sqlserver://localhost:1433;DatabaseName=MyDB</url>
+		<username>sa</username>
+		<password>1111111</password>
+	</db-info>
+</config>
